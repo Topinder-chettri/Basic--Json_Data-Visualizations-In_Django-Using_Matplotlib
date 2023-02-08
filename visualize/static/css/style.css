@@ -1,0 +1,5 @@
+/* General Website Style rules */
+body {
+    font-family: "Helvetica", Sans-Serif;
+    background-image: linear-gradient(to right, #FFEFBA,#FFFFFF);
+  }
